@@ -1,4 +1,5 @@
 {
   "latestVersion": "5.0.0",
-  "forceUpdate": false
+  "forceUpdate": false,
+  "releaseNotes": "• Bug fixes and performance improvements\n• UI enhancements for Settings screen\n• Improved background selection experience"
 }
